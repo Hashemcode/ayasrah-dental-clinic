@@ -1,0 +1,16 @@
+صور الخدمات — مصادر الصور والتراخيص
+Service photo sources & licenses
+=================================
+
+All photos below are CC0 (public domain, free for commercial use, no
+attribution required), sourced via Openverse from StockSnap.io.
+
+hollywood.jpg   StockSnap.io — CC0 — confident smile portrait
+whitening.jpg   StockSnap.io — CC0 — bright smile / skincare portrait
+checkup.jpg     StockSnap.io — CC0 — dentist with patient
+cleaning.jpg    StockSnap.io — CC0 — dental examination
+filling.jpg     StockSnap.io — CC0 — curing light treatment
+
+braces / implant / rootcanal / default: no photo → the built-in illustration
+is shown (see serviceArt.tsx). Replace any card by dropping a same-named .jpg
+here (see README.txt) — ideally real photos from د. عامر's own clinic.
